@@ -13,5 +13,4 @@ echo "Descripcion del producto ".$new_product->getDescription();
 echo "<br>";
 echo  "Precio : ".$new_product->getPrice();
 echo "<br>";
-echo $new_product->getId();
-
+echo $new_product->getId();//gtgt
